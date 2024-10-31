@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.div1{
+    height: 400px;
+    width: 600px;
+    background-color: #ff4500;
+    border:15px ridge black;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.p1{
+    height: 100px;
+    width: 50%;
+    background-color:  greenyellow;
+    border-width: 3px;
+    border-style: inset;
+    border-color: indigo;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-top: 115px;
+    padding-left: 45px;
+}
